@@ -1,6 +1,6 @@
 ### [The Best New Commers]
 
-<img src="file:///C:/Users/Admin/Desktop/BookReview/Prize_BookReview2019.jpg" title="" alt="" width="330">
+<img src="https://i.imgur.com/BWUS6i4.jpg" title="" alt="" width="330">
 
 > Là cuộc thi lớn dành cho các bạn tân sinh viên về giải quyết làm việc nhóm, tham gia các trò chơi nhóm để lấy điểm
 
